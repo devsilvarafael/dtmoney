@@ -1,6 +1,5 @@
 import Modal from 'react-modal';
 import { FormEvent, useState } from 'react';
-import { api } from '../../services/api';
 
 import { Container, TransactionTypeContainer, RadioBox } from './styles';
 
