@@ -3,8 +3,11 @@ import { Container } from "./styles"
 import inComeImg from '../../assets/income.svg';
 import outComeImg from '../../assets/outcome.svg';
 import totalImg from '../../assets/total.svg';
+import { useTransaction } from "../../hooks/useTransaction";
 
 export const Summary = () => {
+    const { transactions } = useTransaction();
+
     return (
         <Container>
             <div>
