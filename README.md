@@ -1,3 +1,20 @@
+# DTMONEY
+Financial control application developed on RocketSeat's Ignite. </br>
+The aim of the project was to create an application where we can add or remove, deposit and expence transactions. </br>
+Dashboard informs us of the total deposited amounts, expenses, and the total balance.
+
+## Technologies
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+## + MirageJS
+A client-side server to develop, test and prototype your JS app.
+
+## Aplication
+<img src="./src/styles/dtmoney-desktop.png" />
+
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
