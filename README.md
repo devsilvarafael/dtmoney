@@ -11,7 +11,7 @@ Dashboard informs us of the total deposited amounts, expenses, and the total bal
 ## + MirageJS
 A client-side server to develop, test and prototype your JS app.
 
-## Aplication
+## Application
 <img src="./src/styles/dtmoney-desktop.png" />
 
 #
